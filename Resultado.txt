@@ -1,0 +1,15 @@
+Domínio = (fastfood.com.br) // Status = não disponível. 
+Domínio = (comidarapida.com.br) // Status = não disponível. 
+Domínio = (meulanche.com.br) // Status = não disponível. 
+Domínio = (ifood.com.br) // Status = não disponível. 
+Domínio = (guloso.com.br) // Status = não disponível. 
+Domínio = (pedidosfood.com.br) // Status = disponível. 
+Domínio = (foodtruck.com.br) // Status = não disponível. 
+Domínio = (horadolanche.com.br) // Status = não disponível. 
+Domínio = (pediuchegou.com.br) // Status = não disponível. 
+Domínio = (lanchefeliz.com.br) // Status = disponível. 
+Domínio = (papalanches.com.br) // Status = não disponível. 
+Domínio = (tourdolanche.com.br) // Status = disponível. 
+Domínio = (seulanche.com.br) // Status = disponível. 
+Domínio = (obalanches.com.br) // Status = disponível. 
+Domínio = (salvafome.com.br) // Status = disponível. 
